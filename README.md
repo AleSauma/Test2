@@ -1,1 +1,2 @@
 # Mercurio
+git remote -v
