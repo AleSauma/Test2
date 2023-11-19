@@ -1,2 +1,2 @@
 # Mercurio
-git remote -v
+Hellooo
